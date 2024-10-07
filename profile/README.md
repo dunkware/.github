@@ -13,7 +13,7 @@ Our mission is to help organizations unlock the full potential of their data and
 ## Key Areas
 Here are some key areas we are focused in. 
 - **Open Cloud e**: The heart of our open cloud solutions, enabling seamless interaction between various Dunkware modules and facilitating real-time data-driven decision-making.
-- **Time Machine**: Available on AWS Marketplace, Time Machine offers a robust framework for financial backtesting, streaming queries, and predictive analytics.
+- **Time Machine**: Evolving towards AWS Marketplace, Time Machine offers a robust framework for financial backtesting, streaming queries, and predictive analytics that can expand into other industries. 
 - **Auomated Trading t**: Using our Time Machine software we are spending development cycles and money for managing a large-scale autoamted trading cloud that is profiling several thousand stocks and making self directed trading decisions. 
 
 ## Get Involved
@@ -24,7 +24,7 @@ Check out our repositories, explore our projects, and feel free to reach out if 
 ## Connect with Us
 - [Website](https://dunkware.com)
 - [Contact](mailto:info@dunkware.com)
-- Follow us on social media for updates and insights!
+- [Duncan Krebs](mailto:dunk@dunkware.com) 
 
 ---
 
