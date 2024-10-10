@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization of **Dunkware**!
 
-Adaptable Commputing
+Adaptable Commputing Cloud
 ## About Us
 Dunkware is a code base growing in the direction of a scalable and adapptable real time computing cloud whhere massive volumes of data streams are injested, processed and powered by adaptable capabilities where humans are easily
 able to build highly complex cross cutting and historical linking real time queries that provides an advantage and asset for many types of use case.s 
