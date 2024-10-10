@@ -2,10 +2,10 @@
 
 Welcome to the official GitHub organization of **Dunkware**!
 
-Dunkware is a forward-thinking technology company pioneering the **Open Cloud** era by delivering innovative, vendor-neutral solutions for high-performance computing, cloud migration, and scalable AI-driven data intelligence. Our projects are designed to facilitate a flexible, customer-centric approach to technology with a strong foundation in open standards and interoperability.
-
+Adaptable Commputing
 ## About Us
-At Dunkware, we believe in empowering enterprises through dynamic, open-source solutions that push the boundaries of what's possible in cloud infrastructure and data processing. Our tools and services are crafted to ensure seamless, secure, and efficient operations across multiple platforms and providers.
+Dunkware is a code base growing in the direction of a scalable and adapptable real time computing cloud whhere massive volumes of data streams are injested, processed and powered by adaptable capabilities where humans are easily
+able to build highly complex cross cutting and historical linking real time queries that provides an advantage and asset for many types of use case.s 
 
 ## Our Mission
 Our mission is to help organizations unlock the full potential of their data and computing resources. By prioritizing transparency, flexibility, and customer autonomy, we aim to redefine how companies think about and interact with their technology infrastructure.
