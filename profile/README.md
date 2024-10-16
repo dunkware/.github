@@ -33,7 +33,7 @@ This patent outlines Dunkware's unique approach to defining and managing complex
 ### Future Directions
 As Dunkware continues to evolve, our focus will be on refining Time Streams and Dunkware Street while bringing **Cloud Parts** to market. We are actively exploring funding opportunities and partnerships to expand the capabilities of our platform and deliver cutting-edge solutions for real-time data processing and cloud intelligence.
 
-### Chief Dunk Offier 
+### Chief Dunk Offier (CDO) 
 Freedom Starts Here! - Duncan Krebs 
 
 ---
