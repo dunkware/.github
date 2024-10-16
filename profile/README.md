@@ -1,6 +1,6 @@
 # Dunkware
 
-## About Dunkware
+## About 
 
 At **Dunkware**, our vision is to create better, easier computing paradigms that simplify complex processes and make them more accessible. Our focus is on innovating within the realm of IoT and real-time data streams, where powerful computing logic is applied to transform raw data into actionable intelligence. We aim to develop solutions that let users model time series data in a way similar to column-based spreadsheets but on a vastly larger and more dynamic scale. Our technology creates a foundation for high-frequency data processing and modeling, designed for the modern data-driven enterprise.
 
@@ -32,6 +32,9 @@ This patent outlines Dunkware's unique approach to defining and managing complex
 
 ### Future Directions
 As Dunkware continues to evolve, our focus will be on refining Time Streams and Dunkware Street while bringing **Cloud Parts** to market. We are actively exploring funding opportunities and partnerships to expand the capabilities of our platform and deliver cutting-edge solutions for real-time data processing and cloud intelligence.
+
+### Chief Dunk Offier 
+Freedom Starts Here! - Duncan Krebs 
 
 ---
 
