@@ -1,3 +1,2 @@
-## Concept-Driven Cloud Computing & Runtime Logic Platforms  
-
+## You have no idea what is about to happen. 
 
